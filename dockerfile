@@ -8,6 +8,10 @@ WORKDIR /app
 
 COPY requirements.txt .
 
+# Copy current directory to /app
+COPY . /app
+
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["python3"]
+
+CMD ["bash"]
