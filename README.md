@@ -1,5 +1,5 @@
 # About
-This is a fork of the ProbLink algorithm, which is a probabilistic AS relationship inference algorithm, which does inference based on key AS-interconnection features derived from stochastically informative signals. Learn more about ProbLink in our [NSDI paper](https://www.usenix.org/conference/nsdi19/presentation/jin).
+This is a fork of the ProbLink algorithm. ProbLink is a probabilistic AS relationship inference algorithm, which does inference based on key AS-interconnection features derived from stochastically informative signals. Learn more about ProbLink in the [NSDI paper](https://www.usenix.org/conference/nsdi19/presentation/jin).
 
 The original project is available on Github at [YuchenJin/ProbLink](https://github.com/YuchenJin/ProbLink).
 
@@ -8,7 +8,8 @@ of Python that it was written in.
 
 
 ## Quickstart
-I am you have this code already. If not, clone this repository.
+
+I assume you have this code already. If not, clone this repository.
 
 __Install Python dependencies__
 
